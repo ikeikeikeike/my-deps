@@ -6,7 +6,7 @@ authors = ["ikeikeikeike <jp.ne.co.jp@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "==3.9.6"
-PyYAML = "^5.4"
+PyYAML = "^6.0"
 botocore = "^1.21"
 
 [build-system]
